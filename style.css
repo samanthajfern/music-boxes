@@ -1,0 +1,68 @@
+body{
+  background-image: url(bee.jpg);
+}
+
+#instrument{
+  height: 120px;
+  width: 812px;
+  padding-right: 10px;
+  padding-top: 50px;
+  margin: auto;
+}
+
+
+.box{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+
+.t{
+    width: 760px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+
+
+#c{
+  background-position: center;
+  background-image: url(he.jpg);
+}
+
+#d{
+  background-position: center;
+  background-image: url(philc.jpg);
+}
+
+#e{
+  background-position: center;
+  background-image: url(pep.png);
+}
+
+#f{
+  background-position: center;
+  background-image: url(tat.jpg);
+}
+
+#g{
+  background-position: center;
+  background-image: url(slo.jpeg);
+}
+
+#a{
+  background-position: center;
+  background-image: url(lp.gif);
+}
+
+#b{
+  background-color: #21160C;
+}
+
+#tar:hover{
+  background-position: center;
+  background-image: url(tap.jpg);
+}
